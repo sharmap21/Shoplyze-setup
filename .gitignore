@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+env/
+*.env
+dataset/raw/*
+outputs/*
+!outputs/figures/
+!outputs/figures/*.png
+*.pbixDataStorage
+*.pbitDataStorage
